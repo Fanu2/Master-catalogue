@@ -132,10 +132,11 @@ The collection can include:
 - Romantic literature
 - Contemporary works
 - Important works from each language
-🔎 OSINT
-│   ├── Top 100 Tools & Resources
-│   └── OSINT README
+
+🔎 
 **[OSINT](https://docs.google.com/spreadsheets/d/15jy_TUy10JfuR_wz2S8t6nvY6WSt2Edr3GBumHusCFE/edit?usp=sharing)**
+
+  
 
 # 🐧 LINUX
 
