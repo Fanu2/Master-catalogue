@@ -1,4 +1,6 @@
 [FOSS](https://docs.google.com/spreadsheets/d/1ybhr1DfHZQWTFW6dZwhh9MDcb4wVExdGnZpM9Nn_leg/edit?usp=sharing)
+[LLMs](https://docs.google.com/spreadsheets/d/1UGHAsKA_KG3Wm7OxP-NfdiBJ5aF4mqOsoaB5PK-2Hwo/edit?usp=sharing)
+
 # Top 200 Free & Open-Source Software
 
 A curated discovery catalogue covering desktop applications, development, media, graphics, AI, security, networking, knowledge management, business, science, and games.
