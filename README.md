@@ -1,3 +1,4 @@
+[FOSS](https://docs.google.com/spreadsheets/d/1ybhr1DfHZQWTFW6dZwhh9MDcb4wVExdGnZpM9Nn_leg/edit?usp=sharing)
 # Top 200 Free & Open-Source Software
 
 A curated discovery catalogue covering desktop applications, development, media, graphics, AI, security, networking, knowledge management, business, science, and games.
